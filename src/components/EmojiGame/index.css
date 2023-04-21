@@ -1,0 +1,12 @@
+/* Write your code here. */
+.game-container {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+  width: 50vw;
+  background-size: cover;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
